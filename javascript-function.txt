@@ -1,0 +1,3 @@
+http://rubular.com/r/WyHKDJ9P0a
+
+function\s*(((?:[a-z]||[A-Z]||_)\w*)\s*\(([^)]*)\))\s*(?:[\;]|(?:\{([^\}]*))\})
